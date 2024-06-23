@@ -1,0 +1,14 @@
+/Users/coopergrant/Desktop/code/GeoCalc/bin/Debug/net7.0/GeoCalc
+/Users/coopergrant/Desktop/code/GeoCalc/bin/Debug/net7.0/GeoCalc.deps.json
+/Users/coopergrant/Desktop/code/GeoCalc/bin/Debug/net7.0/GeoCalc.runtimeconfig.json
+/Users/coopergrant/Desktop/code/GeoCalc/bin/Debug/net7.0/GeoCalc.dll
+/Users/coopergrant/Desktop/code/GeoCalc/bin/Debug/net7.0/GeoCalc.pdb
+/Users/coopergrant/Desktop/code/GeoCalc/obj/Debug/net7.0/GeoCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coopergrant/Desktop/code/GeoCalc/obj/Debug/net7.0/GeoCalc.AssemblyInfoInputs.cache
+/Users/coopergrant/Desktop/code/GeoCalc/obj/Debug/net7.0/GeoCalc.AssemblyInfo.cs
+/Users/coopergrant/Desktop/code/GeoCalc/obj/Debug/net7.0/GeoCalc.csproj.CoreCompileInputs.cache
+/Users/coopergrant/Desktop/code/GeoCalc/obj/Debug/net7.0/GeoCalc.dll
+/Users/coopergrant/Desktop/code/GeoCalc/obj/Debug/net7.0/refint/GeoCalc.dll
+/Users/coopergrant/Desktop/code/GeoCalc/obj/Debug/net7.0/GeoCalc.pdb
+/Users/coopergrant/Desktop/code/GeoCalc/obj/Debug/net7.0/GeoCalc.genruntimeconfig.cache
+/Users/coopergrant/Desktop/code/GeoCalc/obj/Debug/net7.0/ref/GeoCalc.dll

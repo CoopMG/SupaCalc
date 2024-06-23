@@ -1,0 +1,4 @@
+Area of circle using radius, pi*radius**2
+Circumference of circle using radius, pi*radius*2
+Area of triangle using base and height, base*height*(1/2)
+Area of triangle using a and b and c, c/2 * sqrt(a**2 - ((a**2 - b**2 + c**2)/(2*c))**2)
