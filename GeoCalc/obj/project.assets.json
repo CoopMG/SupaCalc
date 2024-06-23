@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/coopergrant/Desktop/code/GeoCalc/GeoCalc.csproj",
+      "projectUniqueName": "/Users/coopergrant/GitHub/SupaCalc/GeoCalc/GeoCalc.csproj",
       "projectName": "GeoCalc",
-      "projectPath": "/Users/coopergrant/Desktop/code/GeoCalc/GeoCalc.csproj",
+      "projectPath": "/Users/coopergrant/GitHub/SupaCalc/GeoCalc/GeoCalc.csproj",
       "packagesPath": "/Users/coopergrant/.nuget/packages/",
-      "outputPath": "/Users/coopergrant/Desktop/code/GeoCalc/obj/",
+      "outputPath": "/Users/coopergrant/GitHub/SupaCalc/GeoCalc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/coopergrant/.nuget/NuGet/NuGet.Config"
