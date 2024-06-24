@@ -1,13 +1,13 @@
 //CODE FOR WHAT WILL RENDER
-
-//import logo from './logo.svg';
 import './App.css';
-import { TestComponent } from 'supacalc/src/Components/TestComponent/TestComponent.jsx'
+import { TestComponent } from './Components/TestComponent/TestComponent.jsx'
+import { LogoComponent } from './Components/LogoComponent/LogoComponent.jsx';
 
 function App() {
   return (
     <box>
-      <div>hello</div>
+      <LogoComponent/>
+      <text>hello</text>
       <TestComponent />
     </box>
   );
