@@ -5,11 +5,21 @@ import { LogoComponent } from './Components/LogoComponent/LogoComponent.jsx';
 
 function App() {
   return (
-    <box>
-      <LogoComponent/>
-      <text>hello</text>
+    <div className = "screen">
+      <div className = "header">
+        <div className='Options'>
+          
+          <text>Standard</text>
+        </div>
+        <LogoComponent className = "logo"/>
+      </div>
+      
+      
       <TestComponent />
-    </box>
+      <button>
+        hello im a button
+      </button>
+    </div>
   );
 }
 

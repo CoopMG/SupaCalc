@@ -1,3 +1,7 @@
+import './TestComponent.css'
+import React from 'react'
+
+
 export const TestComponent = () => {
     // variables and states
     
@@ -5,8 +9,8 @@ export const TestComponent = () => {
 
     // return
     return(
-        <div>
-            how ya doin
+        <div className = "div1">
+            Test Component
         </div>
     )
 }

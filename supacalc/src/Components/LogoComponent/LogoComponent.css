@@ -1,4 +1,8 @@
-.logo {
-    width: 150px;
-    height: auto;
-  }
+:root{
+  --logo-width:300px;
+}
+
+.logo{
+  height: 70px;  /* Fixed height */
+  width: var(--logo-width);  /* Fixed width */
+}

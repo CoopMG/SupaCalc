@@ -1,10 +1,10 @@
+import React from 'react'
 import './LogoComponent.css'
-import logo from '../../assets/SupaCalcLogo.png';
+import logo from '../../assets/SupaCalcNameLogo.svg';
 
 export const LogoComponent = () => {
     return(
-    <box classname = "LogoContainer">
-        <img classname = "logo" alt = "SupaCalc Logo" src = {logo}/>
-    </box>
+    <img className = "logo" alt = "SupaCalc Logo" src = {logo}/>
+
     )
 }
