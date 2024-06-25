@@ -1,20 +1,23 @@
-.OutputField{
-    margin-top: 2.4vh;
-    height:15.6vh;
+
+.InputField{
+    align-items: center;
+    margin-top: 4.7vh;
+    height:5.8vh;
     --margin-width: 10vw;
     margin-left: var(--margin-width);
     margin-right: var(--margin-width);
     width: calc(100vw - var(--margin-width));
 
-    border: 3px solid rgb(224, 224, 224);
-    border-radius: 15px;
+    background-color: rgb(239, 239, 239);
+    border: 1px solid rgb(224, 224, 224);
+    border-radius: 10px;
     display: flex;
 }
 
-.OutputText{
-    font-weight: 550;
+.InputText{
+    font-weight: 650;
     font-family: system-ui, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 5vh;
+    font-size: 2vh;
     margin:2vh;
     color: grey;
 }
