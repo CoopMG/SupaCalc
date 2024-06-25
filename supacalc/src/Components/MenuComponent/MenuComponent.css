@@ -1,0 +1,16 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    --menu-scale: 40px;
+}
+
+
+.menu-img{
+    height: var(--menu-scale);
+    width: var(--menu-scale);
+}
+
+.calc-type-text{
+    font-size : calc(var(--menu-scale)/3);
+}

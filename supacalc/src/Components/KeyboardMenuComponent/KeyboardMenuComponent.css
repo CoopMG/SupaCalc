@@ -1,0 +1,16 @@
+.keyboard-menu{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  --keyboard-menu-scale: 40px;
+}
+
+
+.keyboard-menu-img{
+  height: var(--keyboard-menu-scale);
+  width: var(--keyboard-menu-scale);
+}
+
+.keyboard-text{
+  font-size : calc(var(--keyboard-menu-scale)/3);
+}

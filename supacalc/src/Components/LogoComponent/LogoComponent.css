@@ -1,8 +1,7 @@
-:root{
-  --logo-width:300px;
-}
+/* scale = 23/100 */
 
 .logo{
-  height: 70px;  /* Fixed height */
-  width: var(--logo-width);  /* Fixed width */
+  --logo-width:40vw;
+  height: 9vh;  
+  width: var(--logo-width); 
 }

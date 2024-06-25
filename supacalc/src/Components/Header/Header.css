@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    
+    justify-content: space-between;
+    --padding-width: 7vw;
+    width: calc(100vw - var(--padding-width)*2);
+    padding-right: var(--padding-width);
+    padding-left: var(--padding-width);
+    padding-top: 40px;
+}
+  
+/* .logo{
+    margin-right: calc(33vw - var(--logo-width)/2 + var(--padding-width));
+} */
+  
