@@ -9,7 +9,7 @@ export const MenuComponent = () => {
     return(
     <div className = "menu">
         <img className = "menu-img" alt = "Left sidebar menu" src = {menu}/>
-        <text className = "calc-type-text">{currentCalculatorType}</text>
+        <p className = "calc-type-text">{currentCalculatorType}</p>
     </div>
     )
 }

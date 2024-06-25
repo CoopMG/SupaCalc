@@ -2,6 +2,6 @@
 
 .logo{
   --logo-width:40vw;
-  height: 9vh;  
+  height: 6vh;  
   width: var(--logo-width); 
 }

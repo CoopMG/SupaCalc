@@ -1,15 +1,16 @@
 .header{
+    background-color: aqua;
+    align-items: center;
     display: flex;
     
     justify-content: space-between;
-    --padding-width: 7vw;
+    --padding-width: 5vw;
     width: calc(100vw - var(--padding-width)*2);
+    height: 8vh;
+
     padding-right: var(--padding-width);
     padding-left: var(--padding-width);
-    padding-top: 40px;
+    margin-top: 3vh;
+
 }
-  
-/* .logo{
-    margin-right: calc(33vw - var(--logo-width)/2 + var(--padding-width));
-} */
   

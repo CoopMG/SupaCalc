@@ -9,7 +9,7 @@ export const KeyboardMenuComponent = () => {
     return(
     <div className = "keyboard-menu">
         <img className = "keyboard-menu-img" alt = "Right sidebar menu" src = {keyboardMenu}/>
-        <text className = "keyboard-text">{currentKeyboard}</text>
+        <p className = "keyboard-text">{currentKeyboard}</p>
     </div>
     )
 }
