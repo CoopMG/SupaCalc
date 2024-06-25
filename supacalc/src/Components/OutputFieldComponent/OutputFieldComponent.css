@@ -1,0 +1,20 @@
+.OutputField{
+    margin-top: 2.4vh;
+    height:16vh;
+    --margin-width: 10vw;
+    margin-left: var(--margin-width);
+    margin-right: var(--margin-width);
+    width: calc(100vw - var(--margin-width));
+
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    display: flex;
+}
+
+.OutputText{
+    /* font-weight: 250; */
+    font-family: system-ui, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 5vh;
+    margin:2vh;
+    color: grey;
+}
