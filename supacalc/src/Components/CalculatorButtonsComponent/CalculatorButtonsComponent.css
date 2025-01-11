@@ -18,6 +18,11 @@
 }
 
 .btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
     background-color: #6b6b6b;
     border: 3px double rgb(90, 90, 90);
     border-radius: 10px;
